@@ -1,0 +1,8 @@
+public class A{
+int test2() {
+			int i,n;
+			bool isPrime = true;
+
+	}
+
+}	
